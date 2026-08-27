@@ -24,6 +24,7 @@ aj@lkn.io | @ajlkn
 
 
 Credits:
+	Site Temple: Story by HTML5 UP (html5up.net | @ajlkn) under the CCA 3.0 license (html5up.net/license)
 
 	Demo Images:
 		Unsplash (unsplash.com)
